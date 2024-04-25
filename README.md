@@ -51,7 +51,7 @@ Developed by: M THEJESWARAN
 RegisterNumber: 212223240168
 ```
 
-```
+```verilog
 module DFLIPFLOPNEGEDGE(D,Clock,reset,Q);
 input D,reset,Clock;
 output reg Q;
